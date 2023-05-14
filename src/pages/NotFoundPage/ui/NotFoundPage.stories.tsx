@@ -2,10 +2,10 @@ import type { StoryObj } from '@storybook/react';
 import 'app/styles/index.scss';
 import { Theme } from 'app/providers/ThemeProviders';
 import { ThemeDecorator } from 'shared/config/storybook/ThemeDecorator/ThemeDecorator';
-import { NotFoundPage } from 'pages/NotFoundPage';
+import { NotFoundPage } from './NotFoundPage';
 
 const meta = {
-    title: 'pages/MainPage',
+    title: 'pages/NotFoundPage',
     component: NotFoundPage,
     tags: ['autodocs'],
     argTypes: {
