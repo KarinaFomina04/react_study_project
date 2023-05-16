@@ -4,7 +4,6 @@ import { Theme } from 'app/providers/ThemeProviders';
 import { ThemeDecorator } from 'shared/config/storybook/ThemeDecorator/ThemeDecorator';
 import { ErrorPage } from 'widgets/ErrorPage/ui/ErrorPage';
 
-
 const meta = {
     title: 'widget/PageError',
     // eslint-disable-next-line no-undef

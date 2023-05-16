@@ -4,7 +4,6 @@ import { ThemeDecorator } from 'shared/config/storybook/ThemeDecorator/ThemeDeco
 import { Theme } from 'app/providers/ThemeProviders';
 import { RouterDecorator } from 'shared/config/storybook/RouterDecorator/RouterDecorator';
 
-
 const preview: Preview = {
     parameters: {
         actions: { argTypesRegex: '^on[A-Z].*' },

@@ -3,7 +3,6 @@ import path from 'path';
 import { BuildPaths } from '../build/types/config';
 import { buildCssLoaders } from '../build/loaders/buildCssLoader';
 
-
 export default ({ config }: { config: webpack.Configuration }) => {
     const paths: BuildPaths = {
         build: '',
