@@ -68,7 +68,7 @@ export const Modal = (props: ModalProps) => {
                     >
                         {/* eslint-disable-next-line i18next/no-literal-string */}
                         {/* {children} */}
-                        {t(asdfsdafsdajhvljv;luv;v;jv;v;viv;jvjhvjyfytdkkfjklou;ouitytdhsjyfhlkjh;ki)}
+                        asdfsdafsdajhvljvluv
                     </div>
                 </div>
             </div>
