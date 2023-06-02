@@ -1,16 +1,15 @@
 {
   "Тестовый пример": "Test example",
-  "Войти": "Login",
   "Перевод": "Translate",
   "Главная страница": "Main page",
   "Язык": "English",
   "Страница не найдена": "Page not found",
-  "О сайте": "About us",
-  "toggle": "toggle",
-  "Произошла непредвиденная ошибка": "Unexpected error",
-  "Обновить страницу": "Refresh the page",
-  "Кинуть ошибку": "Error",
-  "Короткий язык": "En",
+  "Произошла непредвиденная ошибка": "Something went wrong",
+  "Обновить страницу": "Refresh the pager",
+  "Кинуть ошибка": "Throw error",
   "Главная": "Main",
-  "приращение": "increment"
+  "toggle": "toggle",
+  "О сайте": "About us",
+  "Короткий язык": "En",
+  "Войти": "Войти"
 }
